@@ -1,4 +1,4 @@
-# Automate opening browser tabs
+# Automate browser tabs
 
 ### Usage
 
